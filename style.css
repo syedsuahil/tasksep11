@@ -1,0 +1,234 @@
+body{
+    background-color: rgb(95, 6, 50);
+   
+}
+.firstdiv{
+    margin-left: 250px;
+}
+.seconddiv{
+    width: 700px;
+    background-color: antiquewhite;
+}
+
+.firstimg{
+    width: 120px;
+    padding: 5px ;
+}
+
+.headpara{
+    text-align: right;
+    margin-top: -52px;
+    font-size: 15px;
+    font-weight: bold;
+    padding-right: 12px;
+}
+.hr1{
+    margin-top: 30px;
+    position: relative;
+    border: none;
+    height: 2px;
+    background: black; 
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.navbar{
+    list-style-type: none;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+li{
+    float: left;
+}
+
+li a {
+    display: block;  
+    text-align: center;
+    color: rgb(116, 19, 19);
+    padding: 10px 12px;
+    text-decoration: none;
+    font-weight: 10px;
+}
+
+.America{
+    width: 700px;
+    position: relative;
+}
+.fl1{
+    width: 150px;
+    position: absolute;
+    margin-top: -100px;
+    margin-left:500px ;
+    background-color: rgb(95, 6, 50);
+    color: antiquewhite;
+    padding: 10px;
+}
+.fl2{
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 562px;
+    background-color:rgb(95, 6, 50) ;
+    color: antiquewhite;
+    padding: 10px;
+}
+.Subscriber{
+    padding-left: 15px;
+}
+.sp1{
+    color: rgb(95, 6, 50);
+}
+
+
+h1{
+    color: gray;
+    font-size: 20PX;
+    font-style: normal;
+}
+
+
+.view{
+    text-align: right;
+    margin-top: -30px;
+    font-size: 15px;
+    padding-right: 12px;
+
+}
+
+.h1view{
+    padding-left: 15px;
+}
+
+
+.ticket{
+    padding: 15px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: rgb(95, 6, 50);
+    margin-left: 12px;
+    margin-right: 12px;
+    
+}
+.H1-4{
+    padding: 15px;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    margin-left: 12px;
+    margin-right: 400px;
+
+}
+.CHICAGO{
+    color: rgb(95, 6, 50);
+}
+
+.from{
+    font-style: italic;
+}
+
+.H2-4{
+
+    padding: 15px;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    margin-left: 350px;
+    margin-right: 25px;
+    margin-top: -140px;
+
+
+}
+ .newyork{
+    color: rgb(95, 6, 50);
+}
+.from1{
+    font-style: italic;
+}
+ .terms{
+    padding: 15px;
+    color:  rgb(95, 6, 50);
+ }
+
+ #H1{
+    padding: 15px;
+    background-color: gray;
+    color: aliceblue;
+    margin-left: 12px;
+    margin-right: 12px;
+    
+ }
+
+ .student{
+    padding: 15px;
+ }
+
+ #imghead{
+    color:  rgb(95, 6, 50);
+ }
+
+ .imgpara{
+    margin-left: 350px;
+    margin-right: 25px;
+    margin-top: -180px;
+
+ }
+
+ .read{
+    color: rgb(95, 6, 50);
+ }
+
+ .last{
+    padding: 15px;
+    color:  rgb(95, 6, 50);
+ }
+
+.link{
+    text-decoration: none;
+    color:  rgb(95, 6, 50);
+    font-weight: bold;
+ }
+
+ 
+.navbar2{
+    list-style-type: none;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+li{
+    float: left;
+}
+
+.li2 .a1 {
+    display: block;  
+    text-align: center;
+    color:white;
+    padding: 10px 12px;
+    text-decoration: none;
+    font-weight: 10px;
+}
+
+.hr2{
+    margin-top: 30px;
+    position: relative;
+    border: none;
+    height: 2px;
+    background: white; 
+    margin-left: 12px;
+    margin-right: 330px;
+}
+
+
+.lastpara{
+    color: white;
+    margin-right: 330px;
+}
